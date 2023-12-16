@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pokemon Picture componentn debe hacer match con el snapshot 1`] = `
+<div class="pokemon-container"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/undefined.svg" alt="pokemon" class="hidden-pokemon">
+  <!--v-if-->
+</div>
+`;
